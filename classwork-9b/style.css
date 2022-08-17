@@ -1,0 +1,199 @@
+body, div, ul, h2, p{
+        margin: 0;
+        padding: 0;
+}
+.navbar{
+   
+        border: 1px solid #147064;
+        background-color: #147064;
+        max-width: 100%;
+        max-height: 100%;
+        top: 0;
+}
+
+.navbar ul{
+        list-style-type: none;
+        display: flex;
+}
+.textA{
+        font-size: 60px;
+        color: white;
+}
+#search{
+        width: 40em;
+        height: 3.4em;
+        color:black;
+        border-radius: 20px;
+        margin-top: 10px;
+        margin-left: 15px;
+}
+.textB, .textD{
+        font-size: 22px;
+        color: white;
+        margin-top: 19px;
+        margin-left: 5px;
+}
+.textC{
+        font-size: 30px;
+        color: white;
+        margin-top: 15px;
+}
+.background1{
+       
+        border: 1px solid rgba(192, 192, 192, 0.568);
+        background-color: rgba(192, 192, 192, 0.493);
+        height: 350px;
+}
+
+.background2{
+        border: 1px solid rgba(128, 128, 128, 0.26);
+        height: 350px;
+        background-color: rgba(128, 128, 128, 0.13);
+}
+
+.container2 ul{
+        list-style-type: none;
+}
+.container2{
+        position: absolute;
+        top: 70px;
+        left: 40px;
+}
+.container2 li{
+        margin-left: 27px;
+        font-size: 15px;
+        padding: 7px;
+    
+}
+.container2 p{
+        margin-top: 11px;
+}
+.container2 h2, p{
+        color: grey;
+}
+
+.container2 h2{
+        font-size: 20px;
+        font-weight: 100;
+}
+
+.container3{
+        position: absolute;
+        top: 70px;
+        left: 26%;
+        border: 1px solid white;
+        background-color: whitesmoke;
+        color: royalblue;
+        padding: 10px;
+        width: 45%;
+        box-shadow: 2px 4px 2px 4px darkgray;
+        height: 190px;
+        font-size: 14px;
+}
+.container3 ul{
+        margin-top: -7px;
+        list-style-type: none;
+        display: flex;
+}
+.container3 li{
+        padding: 4px;
+}
+#comment{
+        width: 98%;
+        background-color: rgba(173, 216, 230, 0.315);
+}
+.container3 hr{
+        max-width: 99%;
+        
+}
+.container3 button{
+        margin-left: 75%;
+        width: 85px;
+        padding: 5px;
+        border-radius: 4px;
+        background-color: #147064;
+        color: white;
+        margin-top: 5px;
+}
+.container4{
+        width: 45%;
+        border: 1px solid white;
+        padding: 10px;
+        position: absolute;
+        top: 290px;
+        left: 26%;
+        background-color: white;
+        box-shadow: 2px 4px 2px 4px darkgray;
+        height: 650px;
+
+}
+.container4 ul, .container5 ul{
+        list-style: none;
+        display: flex;
+}
+.container4 li, .container5 li{
+        color: grey;
+        padding: 10px;
+}
+.container4 span{
+        color: royalblue;
+}
+#timing{
+        color: grey;
+        font-size: 14px;
+}
+.container4 .img1{
+        width: 60%;
+}
+.container4 .img2{
+        width: 100%;
+        margin: 0 auto;
+}
+.comment-img{
+        width: 29px;
+        height: 30px;
+}
+.lst-comment{
+        margin-top: 3px;
+}
+
+.container5, .container6{
+        border: 1px solid grey;
+        background-color: white;
+        width: 15%;
+        padding: 10px;
+        position: absolute;
+        top: 70px;
+        left: 75%;
+        border-radius: 4px;
+        height: 420px;
+    
+}
+.container5 ul{
+        margin-bottom: -12px;
+}
+.container5 button{
+        width: 100px;
+        padding: 5px;
+        font-size: 15px;
+        color: #fff;
+        background-color: #147064;
+        border-radius: 4px;
+        margin-left: 20px;
+}
+
+.container6{
+        top: 520px;
+} 
+.see-text1{
+        margin-top: 15px;
+}
+#see-text{
+        color: black;
+        font-size: 15px;
+}
+.p-heading{
+        font-size: 20px;
+        margin-top: -5px;
+}
+
